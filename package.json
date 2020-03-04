@@ -1,7 +1,7 @@
 {
-  "name": "fis3-vue-scaffold",
+  "name": "fis3-vue2-scaffold",
   "version": "1.0.0",
-  "description": "fis3 vue spa webapp",
+  "description": "fis3 vue2 spa webapp",
   "author": "iTibbers",
   "license": "MIT",
   "scripts": {
